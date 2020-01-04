@@ -1,0 +1,11 @@
+# Font style metadata
+name = "mvfont"
+
+# Optional Google font URL
+google_fonts = "Cutive+Mono|Open+Sans|Roboto|McLaren"
+
+# Font families
+heading_font = 'Cutive Mono'
+body_font = 'Open Sans'
+nav_font = 'Cutive Mono'
+mono_font = 'Open Sans'
