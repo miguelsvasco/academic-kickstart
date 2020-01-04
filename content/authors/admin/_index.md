@@ -1,7 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
-
+name: Miguel Vasco
 # Username (this should match the folder name)
 authors:
 - admin
@@ -10,32 +9,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student in Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Tech Lisbon, University of Lisbon
+  url: "https://fenix.tecnico.ulisboa.pt/homepage/ist170413"
+  name: GAIPS, INESC-ID
+   url: "https://gaips.inesc-id.pt/component/gaips/people/displayPerson/8/84"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Robotics
+- Deep Learning
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: PhD in Computer Science
+    institution: Tech Lisbon, University of Lisbon
+    year: 2018-Ongoing
+  - course: MSc in Engineering Physics
+    institution: Tech Lisbon, University of Lisbon
+    year: 2016
+  - course: BSc in Engineering Physics
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,7 +48,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/miguelsvasco
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
