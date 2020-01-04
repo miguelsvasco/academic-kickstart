@@ -15,8 +15,8 @@ role: PhD Student in Computer Science
 organizations:
 - name: Tech Lisbon, University of Lisbon
   url: "https://fenix.tecnico.ulisboa.pt/homepage/ist170413"
-  name: GAIPS, INESC-ID
-   url: "https://gaips.inesc-id.pt/component/gaips/people/displayPerson/8/84"
+- name: GAIPS, INESC-ID
+  url: "https://gaips.inesc-id.pt/component/gaips/people/displayPerson/8/84"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
