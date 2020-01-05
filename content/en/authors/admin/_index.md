@@ -71,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-**Miguel S. Vasco** is a PhD student in Computer Science at Tech Lisbon since 2018 and a researcher of the Group on Artificial Intelligence for People and Society (GAIPS) since 2016. Miguel aims at merging the topics of Artificial Intelligence and Human Cognition with Deep Learning. **He will certainly be successful in such task**. Then he may rest.
+**Miguel Vasco** is a PhD student in Computer Science at Tech Lisbon since 2018 and a researcher of the Group on Artificial Intelligence for People and Society (GAIPS) since 2016. Miguel aims at merging the topics of Artificial Intelligence and Human Cognition with Deep Learning. **He will certainly be successful in such task**.
 
 Humans (and some robots) are able to perceive their environment through multiple sensory channels and obtain multimodal data from the world. From that data, they create rich internal representations of their environment in order to be able to act upon the world. Miguel likes to build biological-inspired generative models to learn multimodal representations. 45% of the time, they work **every time**.
 
